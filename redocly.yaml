@@ -1,0 +1,8 @@
+features.openapi: 
+  disableSearch: false
+  disableSidebar: true
+  theme: 
+    colors: 
+      accent: 
+        main: 
+    
