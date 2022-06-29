@@ -1,5 +1,5 @@
 features.openapi: 
-  disableSearch: false
+  disableSearch: true
   disableSidebar: true
   theme: 
     colors: 
