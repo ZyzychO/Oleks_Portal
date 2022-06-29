@@ -10,10 +10,11 @@ It's a great companion to our [developer portal docs](https://docs.redoc.ly/deve
 Spend between an hour and a day playing with the most commonly utilized features.
 
 ## Prerequisites
-- Basic Git and markdown knowledge
+- **Basic Git and markdown knowledge**
 - Node and yarn installed
 - A text editor or IDE (we like VS Code)
 - [Setup the developer portal](setup.md)
+- this is test sentence
 
 ## Training exercises
 
