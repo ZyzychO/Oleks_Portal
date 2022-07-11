@@ -4,7 +4,7 @@ title: Customization
 
 # Customizing Portal
 
-This page describes how to customize the look and feel of the **Portal**.
+This page des1cribes how to customize the look and feel of the **Portal**.
 
 ---
 <!--
